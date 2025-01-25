@@ -309,6 +309,7 @@ img {
     letter-spacing: 0.02em;
     color: #434455;
     text-align: center;
+    margin-bottom: 8px;
 }
 
 .team-name {
@@ -324,7 +325,6 @@ img {
     align-items: center;
     justify-content: center;
     gap: 24px;
-    margin-top: 8px;
 }
 
 .socmedia-icon {
